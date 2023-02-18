@@ -1,0 +1,24 @@
+{
+  "name": "adb-api",
+  "version": "1.0.0",
+  "description": "a simple express api for use adb-tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suleymanlaarabidev/adb-api.git"
+  },
+  "author": "Suleyman Laarabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suleymanlaarabidev/adb-api/issues"
+  },
+  "homepage": "https://github.com/suleymanlaarabidev/adb-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-bash": "^5.0.1"
+  }
+}
